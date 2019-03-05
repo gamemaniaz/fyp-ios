@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.7.0)
+  - BarcodeScanner (4.1.3)
+  - CodableFirebase (0.0.7)
+  - DropDown (2.3.1)
+  - DynamicBlurView (2.0.2)
+  - M13Checkbox (3.2.2)
+  - PopupDialog (0.7.1):
+    - DynamicBlurView (~> 2.0)
+  - SocketRocket (0.5.1)
+  - StompClientLib (1.2.2):
+    - SocketRocket
+  - SwiftGifOrigin (1.6.1)
+  - Toaster (2.1.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - BarcodeScanner
+  - CodableFirebase
+  - DropDown
+  - M13Checkbox
+  - PopupDialog (~> 0.7)
+  - StompClientLib
+  - SwiftGifOrigin
+  - Toaster
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  BarcodeScanner: fce1ad2b3f28286b1ab5091fe0979789618bee27
+  CodableFirebase: 090c5b4c9ad67c9f4fddc3b00d168ec38cad3b14
+  DropDown: 20499c7b2731b0d21609af924e47c7677a2be50d
+  DynamicBlurView: aa6db4defc6e537eb86fc5e58dd3991666178399
+  M13Checkbox: a8c2491cfbbca10797925fd0b9154a782bf40d89
+  PopupDialog: 39598b7d41719f5c025b4b70e62728bae7734fef
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  StompClientLib: 722379c85b96423de965245d2bb9e01e931ce7ed
+  SwiftGifOrigin: d6679d3ebe9df2e049a84bc52582635107b581f6
+  Toaster: a6c9532de1ded8105e77376f7dffeb2e12b46dbb
+
+PODFILE CHECKSUM: 2686cda9d6c18c1cf00be1f6e56487021ecdc9fb
+
+COCOAPODS: 1.4.0
